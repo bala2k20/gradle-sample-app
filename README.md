@@ -30,7 +30,7 @@ And then visit http://localhost:8080 in your browser.
 
 ## To use this project in Codefresh
 
-There is also a [codefresh.yml](codefresh.yml) for easy usage with the [Codefresh](codefresh.io) CI/CD platform. 
+There is also a [codefresh.yml](codefresh.yml) for easy usage with the [Codefresh](codefresh.io) CI/CD platform.
 
 For the simple packaging pipeline see [codefresh-package-only.yml](codefresh-package-only.yml) 
 
