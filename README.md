@@ -7,7 +7,7 @@ If you are looking for Maven, then see this [example](https://github.com/codefre
 
 ## Create a multi-stage docker image
 
-To compile and package using Docker multi-stage builds
+To compile and package using Docker multi-stage builds.
 
 ```bash
 docker build . -t my-app
